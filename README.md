@@ -59,8 +59,7 @@ accessible to users.
 * **Github Cloning**
 * **Python**
 * **Pandas**
-* **MySQL**
-* **mysql-connector-python**
+* **sqlite**
 * **Streamlit**
 * **Plotly**
 
